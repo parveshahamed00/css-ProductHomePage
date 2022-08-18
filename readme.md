@@ -6,7 +6,6 @@ This is my assignment designed for [iNeuron.](https://ineuron.ai/)
 ## Screenshot
 
 ![App Screenshot](Screenshot.png)
->note: Responsive design under construction 🛠️
 
 [Live Demo](https://parveshahamed-product-design-landing-page.netlify.app/)
 
